@@ -28,4 +28,7 @@ graph={
     'F':[],
     'G':[]
 }                
-bfs_search(graph,'A','E')
+bfs_search(graph,'A','E')     
+
+OUTPUT:
+Target found: E
