@@ -19,3 +19,9 @@ graph={
 visited=set()
 print("DFS Traversal:")
 dfs(graph,'A',visited)
+
+"""
+OUTPUT:
+DFS Traversal:
+A B D E G C F 
+"""
