@@ -51,6 +51,7 @@ else:
     print("No solution exists.")
 
 """
+OUTPUT:
 Solution for 8-Queens Problem:
 Q . . . . . . .
 . . . . Q . . .
