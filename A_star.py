@@ -62,6 +62,7 @@ print("Shortest Path :", path)
 print("Total Cost :", cost)
 
 """
+OUTPUT:
 Shortest Path : ['A', 'B', 'D', 'E']
 Total Cost : 7
 """
