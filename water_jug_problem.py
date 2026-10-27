@@ -61,6 +61,7 @@ capacity_b = 3
 target = 2
 
 """
+OUTPUT:
 Solution path :
 (0, 0)
 (0, 3)
