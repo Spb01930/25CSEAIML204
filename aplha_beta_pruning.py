@@ -64,5 +64,6 @@ result = alpha_beta(
 print("Optimal value :", result)
 
 """
+OUTPUT:
 Optimal value : 3
 """
