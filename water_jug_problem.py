@@ -59,6 +59,7 @@ def water_jug(capacity_a, capacity_b, target):
 capacity_a = 4
 capacity_b = 3
 target = 2
+water_jug(capacity_a, capacity_b, target)
 
 """
 OUTPUT:
@@ -69,4 +70,3 @@ Solution path :
 (3, 3)
 (4, 2)
 """
-water_jug(capacity_a, capacity_b, target)
